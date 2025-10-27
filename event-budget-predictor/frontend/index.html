@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Event Budget Predictor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Event Budget Predictor</h1>
+    <form id="budgetForm">
+      <label>Event Type:</label>
+      <select name="Event_Type">
+        <option>Wedding</option>
+        <option>Birthday</option>
+        <option>Conference</option>
+        <option>Seminar</option>
+        <option>Festival</option>
+        <option>Concert</option>
+        <option>Exhibition</option>
+      </select>
+
+      <label>Venue:</label>
+      <select name="Venue">
+        <option>Banquet Hall</option>
+        <option>Hotel</option>
+        <option>Community Hall</option>
+        <option>Auditorium</option>
+        <option>Open Ground</option>
+      </select>
+
+      <label>Decoration:</label>
+      <select name="Decoration">
+        <option>Basic</option>
+        <option>Premium</option>
+        <option>Luxury</option>
+      </select>
+
+      <label>Entertainment:</label>
+      <select name="Entertainment">
+        <option>None</option>
+        <option>DJ</option>
+        <option>Band</option>
+        <option>Speakers</option>
+      </select>
+
+      <label>Season:</label>
+      <select name="Season">
+        <option>Peak</option>
+        <option>Off-Season</option>
+      </select>
+
+      <label>Attendees:</label>
+      <input type="number" name="Attendees" required />
+
+      <label>Duration (in hours):</label>
+      <input type="number" name="Duration" required />
+
+      <button type="submit">Predict Budget</button>
+    </form>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
