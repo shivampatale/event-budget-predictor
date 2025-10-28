@@ -33,18 +33,18 @@ def predict():
             "Season": {"Peak": 0, "Off-Season": 1}
         }
 
-        # Encode and ensure numeric types
+        # Encode and force numeric types
         input_data = {
-            "Event_Type": int(mapping["Event_Type"][event_type]),
-            "Venue": int(mapping["Venue"][venue]),
-            "Decoration": int(mapping["Decoration"][decoration]),
-            "Entertainment": int(mapping["Entertainment"][entertainment]),
-            "Season": int(mapping["Season"][season]),
+            "Event_Type": int(mapping["Event_Type"].get(event_type, 0)),
+            "Venue": int(mapping["Venue"].get(venue, 0)),
+            "Decoration": int(mapping["Decoration"].get(decoration, 0)),
+            "Entertainment": int(mapping["Entertainment"].get(entertainment, 0)),
+            "Season": int(mapping["Season"].get(season, 0)),
             "Attendees": int(attendees),
             "Duration": int(duration)
         }
 
-        input_df = pd.DataFrame([input_data])
+        input_df = pd.DataFrame([input_data], dtype='float')
 
         # Predict
         prediction = model.predict(input_df)[0]
