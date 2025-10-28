@@ -1,6 +1,6 @@
 from flask import Flask, request, render_template
 import pickle
-import numpy as np
+import pandas as pd
 
 app = Flask(__name__)
 
@@ -33,19 +33,19 @@ def predict():
             "Season": {"Peak": 0, "Off-Season": 1}
         }
 
-        # Encode inputs
-        features = [
-            mapping["Event_Type"][event_type],
-            mapping["Venue"][venue],
-            mapping["Decoration"][decoration],
-            mapping["Entertainment"][entertainment],
-            mapping["Season"][season],
-            attendees,
-            duration
-        ]
+        # Create DataFrame with correct column names and encoded values
+        input_df = pd.DataFrame([{
+            "Event_Type": mapping["Event_Type"][event_type],
+            "Venue": mapping["Venue"][venue],
+            "Decoration": mapping["Decoration"][decoration],
+            "Entertainment": mapping["Entertainment"][entertainment],
+            "Season": mapping["Season"][season],
+            "Attendees": attendees,
+            "Duration": duration
+        }])
 
         # Predict budget
-        prediction = model.predict([features])[0]
+        prediction = model.predict(input_df)[0]
 
         return render_template("index.html", prediction_text=f"Estimated Budget: ₹{round(prediction, 2):,.0f}")
 
