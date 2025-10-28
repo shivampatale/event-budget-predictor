@@ -24,7 +24,7 @@ def predict():
         entertainment = request.form["entertainment"]
         season = request.form["season"]
 
-        # Manual encoding based on training dataset
+        # Manual encoding
         mapping = {
             "Event_Type": {"Wedding": 0, "Birthday": 1, "Conference": 2, "Seminar": 3, "Festival": 4, "Concert": 5, "Exhibition": 6},
             "Venue": {"Banquet Hall": 0, "Hotel": 1, "Community Hall": 2, "Auditorium": 3, "Open Ground": 4},
@@ -33,18 +33,20 @@ def predict():
             "Season": {"Peak": 0, "Off-Season": 1}
         }
 
-        # Create DataFrame with correct column names and encoded values
-        input_df = pd.DataFrame([{
-            "Event_Type": mapping["Event_Type"][event_type],
-            "Venue": mapping["Venue"][venue],
-            "Decoration": mapping["Decoration"][decoration],
-            "Entertainment": mapping["Entertainment"][entertainment],
-            "Season": mapping["Season"][season],
-            "Attendees": attendees,
-            "Duration": duration
-        }])
+        # Encode and ensure numeric types
+        input_data = {
+            "Event_Type": int(mapping["Event_Type"][event_type]),
+            "Venue": int(mapping["Venue"][venue]),
+            "Decoration": int(mapping["Decoration"][decoration]),
+            "Entertainment": int(mapping["Entertainment"][entertainment]),
+            "Season": int(mapping["Season"][season]),
+            "Attendees": int(attendees),
+            "Duration": int(duration)
+        }
 
-        # Predict budget
+        input_df = pd.DataFrame([input_data])
+
+        # Predict
         prediction = model.predict(input_df)[0]
 
         return render_template("index.html", prediction_text=f"Estimated Budget: ₹{round(prediction, 2):,.0f}")
