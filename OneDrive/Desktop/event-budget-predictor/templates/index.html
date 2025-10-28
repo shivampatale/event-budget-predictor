@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Event Budget Predictor</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div id="container">
+    <h1>Event Budget Predictor</h1>
+    <form id="predict-form">
+      <label>Event Type:</label>
+      <input type="text" id="eventType" required>
+
+      <label>Attendees:</label>
+      <input type="number" id="attendees" required>
+
+      <label>Duration (days):</label>
+      <input type="number" id="duration" required>
+
+      <label>Venue:</label>
+      <input type="text" id="venue" required>
+
+      <label>Decoration:</label>
+      <input type="text" id="decoration" required>
+
+      <label>Entertainment:</label>
+      <input type="text" id="entertainment" required>
+
+      <label>Season:</label>
+      <input type="text" id="season" required>
+
+      <button type="submit">Predict Budget</button>
+    </form>
+
+    <div id="loading" style="display:none;">⏳ Predicting...</div>
+    <p id="result"></p>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
