@@ -1,0 +1,501 @@
+Event_Type,Attendees,Duration,Venue,Decoration,Entertainment,Season,Budget
+Conference,634,3,Open Ground,Basic,None,Off-Season,593800
+Birthday,919,8,Banquet Hall,Luxury,None,Peak,786852
+Seminar,960,3,Banquet Hall,Luxury,DJ,Off-Season,813440
+Exhibition,270,7,Hotel,Premium,DJ,Off-Season,425540
+Concert,133,2,Open Ground,Luxury,DJ,Peak,387057
+Birthday,329,9,Hotel,Premium,DJ,Off-Season,487400
+Seminar,674,10,Open Ground,Premium,Band,Peak,609022
+Festival,720,10,Open Ground,Basic,Band,Peak,519440
+Exhibition,979,5,Community Hall,Premium,None,Off-Season,604466
+Concert,752,3,Hotel,Premium,Speakers,Peak,761952
+Seminar,818,6,Hotel,Premium,Speakers,Off-Season,611290
+Conference,960,10,Open Ground,Luxury,None,Off-Season,701040
+Seminar,959,5,Auditorium,Basic,DJ,Off-Season,868284
+Birthday,691,11,Banquet Hall,Premium,None,Off-Season,655695
+Seminar,299,6,Community Hall,Luxury,Speakers,Off-Season,461526
+Birthday,693,4,Community Hall,Luxury,None,Off-Season,650256
+Exhibition,245,9,Auditorium,Basic,Band,Off-Season,377445
+Conference,854,2,Open Ground,Premium,Speakers,Off-Season,566118
+Exhibition,354,8,Community Hall,Premium,None,Off-Season,344434
+Birthday,605,11,Community Hall,Basic,DJ,Off-Season,462180
+Seminar,978,10,Open Ground,Luxury,Band,Off-Season,724892
+Birthday,695,8,Hotel,Basic,Speakers,Peak,596650
+Seminar,588,7,Hotel,Luxury,Speakers,Peak,834528
+Conference,247,2,Banquet Hall,Basic,Band,Peak,349047
+Birthday,994,2,Open Ground,Premium,None,Off-Season,768508
+Conference,152,6,Community Hall,Luxury,DJ,Off-Season,372752
+Conference,516,4,Banquet Hall,Luxury,Speakers,Off-Season,641788
+Exhibition,537,7,Banquet Hall,Luxury,None,Peak,614813
+Wedding,81,7,Banquet Hall,Basic,Band,Peak,309778
+Exhibition,506,2,Open Ground,Basic,Speakers,Off-Season,420976
+Wedding,501,2,Community Hall,Luxury,DJ,Off-Season,535530
+Birthday,673,9,Auditorium,Premium,Band,Peak,683515
+Seminar,511,9,Banquet Hall,Luxury,Speakers,Peak,574038
+Festival,202,3,Banquet Hall,Basic,Band,Off-Season,306860
+Concert,157,4,Community Hall,Basic,Band,Off-Season,264671
+Exhibition,430,9,Hotel,Luxury,Speakers,Peak,666490
+Festival,263,3,Open Ground,Basic,None,Off-Season,343042
+Wedding,447,5,Banquet Hall,Luxury,DJ,Off-Season,513551
+Exhibition,723,6,Community Hall,Basic,Band,Peak,604880
+Concert,448,10,Open Ground,Luxury,Band,Off-Season,544896
+Exhibition,998,10,Open Ground,Luxury,Band,Off-Season,1013610
+Wedding,393,4,Auditorium,Luxury,None,Off-Season,493924
+Concert,457,4,Community Hall,Basic,Band,Peak,467345
+Festival,253,3,Auditorium,Luxury,None,Off-Season,479510
+Seminar,440,8,Community Hall,Basic,DJ,Peak,394280
+Festival,414,3,Hotel,Luxury,None,Peak,670150
+Birthday,132,5,Open Ground,Basic,None,Peak,253920
+Festival,86,8,Banquet Hall,Luxury,DJ,Off-Season,377018
+Birthday,840,9,Banquet Hall,Premium,None,Peak,842280
+Exhibition,108,10,Community Hall,Luxury,Speakers,Peak,370352
+Conference,85,2,Open Ground,Luxury,Speakers,Peak,382815
+Exhibition,222,11,Open Ground,Premium,Speakers,Off-Season,361404
+Festival,663,4,Community Hall,Premium,DJ,Peak,572053
+Conference,181,12,Auditorium,Luxury,DJ,Off-Season,464347
+Festival,715,12,Community Hall,Luxury,DJ,Peak,836965
+Seminar,587,5,Hotel,Premium,Speakers,Peak,710334
+Birthday,922,2,Open Ground,Basic,DJ,Peak,764122
+Concert,52,2,Banquet Hall,Luxury,None,Peak,344440
+Exhibition,349,12,Open Ground,Basic,Band,Peak,497334
+Conference,242,5,Hotel,Basic,None,Peak,394232
+Festival,805,5,Community Hall,Basic,DJ,Off-Season,490515
+Festival,590,8,Community Hall,Premium,None,Peak,573500
+Seminar,281,11,Open Ground,Basic,None,Peak,349724
+Conference,393,9,Community Hall,Premium,DJ,Off-Season,437590
+Wedding,523,10,Auditorium,Basic,Speakers,Off-Season,622647
+Conference,229,3,Open Ground,Basic,Speakers,Off-Season,315186
+Wedding,148,6,Open Ground,Luxury,DJ,Off-Season,385840
+Exhibition,659,11,Open Ground,Basic,Speakers,Off-Season,604940
+Concert,387,11,Hotel,Luxury,Speakers,Peak,655095
+Seminar,909,5,Banquet Hall,Luxury,Band,Peak,1039024
+Wedding,515,3,Community Hall,Luxury,Speakers,Off-Season,600930
+Birthday,217,4,Community Hall,Basic,Speakers,Off-Season,245462
+Concert,671,10,Open Ground,Premium,Band,Off-Season,529872
+Seminar,629,8,Community Hall,Basic,None,Peak,603509
+Seminar,922,6,Banquet Hall,Luxury,Band,Off-Season,730928
+Concert,630,7,Open Ground,Basic,None,Peak,462870
+Exhibition,918,10,Open Ground,Luxury,DJ,Off-Season,886602
+Exhibition,84,6,Open Ground,Premium,Speakers,Peak,290400
+Conference,980,7,Auditorium,Luxury,Speakers,Peak,789240
+Concert,883,10,Community Hall,Premium,Band,Peak,908431
+Seminar,268,11,Hotel,Luxury,None,Off-Season,474268
+Wedding,418,8,Open Ground,Premium,Speakers,Off-Season,447006
+Wedding,441,9,Open Ground,Basic,None,Off-Season,374469
+Exhibition,565,9,Auditorium,Basic,Speakers,Off-Season,485720
+Wedding,606,9,Community Hall,Luxury,None,Peak,554820
+Wedding,585,8,Auditorium,Premium,DJ,Off-Season,674765
+Festival,771,12,Hotel,Basic,DJ,Peak,756478
+Exhibition,425,4,Banquet Hall,Luxury,Band,Off-Season,528275
+Festival,858,3,Hotel,Basic,None,Off-Season,782848
+Wedding,466,9,Open Ground,Premium,Speakers,Off-Season,572082
+Wedding,769,10,Community Hall,Basic,DJ,Off-Season,489129
+Concert,119,2,Community Hall,Luxury,None,Off-Season,313066
+Birthday,759,12,Community Hall,Luxury,DJ,Peak,667356
+Festival,784,7,Community Hall,Basic,Band,Off-Season,699200
+Conference,717,5,Banquet Hall,Premium,None,Peak,670917
+Conference,218,6,Banquet Hall,Basic,Band,Off-Season,322460
+Exhibition,908,3,Auditorium,Basic,DJ,Peak,712172
+Conference,991,6,Auditorium,Basic,DJ,Off-Season,660995
+Birthday,690,12,Auditorium,Premium,None,Peak,578090
+Festival,377,2,Open Ground,Luxury,Band,Off-Season,612552
+Wedding,854,6,Hotel,Luxury,Band,Off-Season,986946
+Festival,969,11,Banquet Hall,Premium,None,Peak,662484
+Seminar,748,2,Banquet Hall,Basic,Band,Off-Season,540892
+Seminar,315,7,Community Hall,Luxury,DJ,Off-Season,513495
+Concert,319,10,Community Hall,Basic,DJ,Off-Season,277919
+Conference,281,10,Community Hall,Basic,DJ,Off-Season,306517
+Conference,55,12,Community Hall,Premium,Band,Peak,271845
+Exhibition,68,10,Auditorium,Basic,DJ,Peak,278356
+Festival,801,8,Open Ground,Premium,Speakers,Peak,850362
+Wedding,953,5,Auditorium,Luxury,DJ,Off-Season,1067139
+Wedding,715,6,Banquet Hall,Premium,None,Off-Season,617550
+Conference,149,7,Auditorium,Premium,DJ,Off-Season,333010
+Seminar,769,6,Banquet Hall,Luxury,Speakers,Peak,894449
+Seminar,521,6,Auditorium,Basic,Speakers,Off-Season,619506
+Conference,159,9,Hotel,Luxury,Speakers,Off-Season,453969
+Birthday,508,10,Banquet Hall,Luxury,Band,Peak,764208
+Conference,257,3,Hotel,Basic,Band,Off-Season,474315
+Exhibition,897,6,Community Hall,Premium,DJ,Peak,937600
+Conference,886,11,Hotel,Basic,Band,Peak,715534
+Seminar,502,10,Hotel,Premium,Band,Off-Season,607184
+Seminar,223,5,Hotel,Premium,None,Peak,425807
+Exhibition,972,5,Community Hall,Premium,Speakers,Peak,970104
+Wedding,69,6,Community Hall,Basic,None,Off-Season,166575
+Exhibition,764,2,Banquet Hall,Luxury,None,Off-Season,634564
+Seminar,836,4,Community Hall,Luxury,Speakers,Off-Season,601088
+Wedding,503,12,Hotel,Premium,Speakers,Off-Season,619022
+Seminar,264,12,Auditorium,Basic,DJ,Off-Season,389752
+Seminar,912,8,Hotel,Premium,Band,Off-Season,910096
+Exhibition,335,11,Open Ground,Premium,DJ,Off-Season,356345
+Festival,301,2,Auditorium,Luxury,DJ,Off-Season,505550
+Concert,455,9,Open Ground,Luxury,None,Off-Season,570300
+Conference,229,11,Auditorium,Luxury,None,Off-Season,437324
+Festival,540,9,Hotel,Premium,DJ,Off-Season,567560
+Exhibition,55,10,Open Ground,Basic,Band,Off-Season,241635
+Festival,75,7,Banquet Hall,Luxury,None,Off-Season,344000
+Wedding,941,6,Open Ground,Premium,None,Peak,717789
+Exhibition,441,8,Community Hall,Premium,Speakers,Off-Season,361251
+Wedding,323,6,Open Ground,Luxury,Speakers,Off-Season,531281
+Exhibition,365,6,Open Ground,Basic,None,Off-Season,343815
+Birthday,230,10,Open Ground,Premium,Band,Peak,433760
+Conference,898,9,Banquet Hall,Premium,None,Peak,840762
+Festival,309,4,Open Ground,Basic,Speakers,Peak,444728
+Wedding,914,11,Community Hall,Premium,None,Peak,734744
+Festival,557,11,Open Ground,Luxury,Band,Peak,607891
+Exhibition,314,5,Hotel,Basic,None,Peak,391614
+Seminar,761,12,Community Hall,Basic,None,Off-Season,581927
+Conference,287,6,Auditorium,Premium,None,Peak,459465
+Conference,820,5,Open Ground,Premium,None,Off-Season,814840
+Festival,218,8,Auditorium,Premium,Speakers,Peak,378100
+Concert,909,11,Open Ground,Premium,Band,Peak,903573
+Birthday,887,6,Open Ground,Premium,DJ,Peak,847838
+Exhibition,411,2,Auditorium,Basic,Band,Peak,465225
+Conference,769,4,Auditorium,Luxury,None,Off-Season,707573
+Wedding,606,3,Auditorium,Premium,Band,Peak,617242
+Seminar,674,12,Open Ground,Premium,Band,Peak,572626
+Wedding,296,11,Banquet Hall,Basic,Band,Off-Season,348168
+Birthday,898,12,Banquet Hall,Premium,DJ,Off-Season,944930
+Concert,953,12,Open Ground,Luxury,DJ,Off-Season,1029998
+Festival,560,10,Auditorium,Basic,DJ,Off-Season,548720
+Exhibition,448,10,Banquet Hall,Basic,Band,Off-Season,434592
+Conference,961,11,Hotel,Luxury,None,Off-Season,812812
+Birthday,837,7,Auditorium,Premium,Speakers,Off-Season,665989
+Wedding,883,6,Banquet Hall,Basic,None,Off-Season,612383
+Wedding,628,7,Open Ground,Premium,Band,Peak,626076
+Birthday,396,3,Community Hall,Premium,DJ,Peak,417604
+Seminar,799,3,Community Hall,Premium,Speakers,Peak,838813
+Concert,341,3,Banquet Hall,Basic,Speakers,Peak,394933
+Concert,992,11,Open Ground,Premium,DJ,Peak,938448
+Conference,779,5,Auditorium,Luxury,Band,Off-Season,927112
+Seminar,726,10,Community Hall,Premium,None,Off-Season,729184
+Concert,920,6,Auditorium,Luxury,None,Peak,951800
+Birthday,862,10,Community Hall,Basic,Band,Off-Season,659616
+Seminar,394,12,Auditorium,Basic,Band,Off-Season,546532
+Wedding,217,12,Banquet Hall,Basic,Band,Peak,357415
+Concert,90,11,Banquet Hall,Luxury,None,Peak,364100
+Birthday,825,8,Banquet Hall,Premium,None,Peak,744075
+Seminar,714,9,Open Ground,Basic,Speakers,Off-Season,469166
+Birthday,790,2,Open Ground,Basic,None,Off-Season,643750
+Festival,889,3,Hotel,Basic,None,Off-Season,627162
+Concert,520,10,Open Ground,Basic,Speakers,Peak,596240
+Exhibition,392,8,Open Ground,Luxury,Band,Off-Season,519920
+Birthday,740,8,Hotel,Basic,Speakers,Off-Season,803140
+Wedding,509,2,Auditorium,Basic,Speakers,Peak,565251
+Festival,514,3,Open Ground,Basic,DJ,Off-Season,497138
+Wedding,430,7,Banquet Hall,Luxury,Speakers,Peak,548550
+Exhibition,271,5,Hotel,Premium,Band,Off-Season,475310
+Seminar,425,4,Open Ground,Premium,Speakers,Peak,480125
+Birthday,469,5,Open Ground,Basic,DJ,Peak,436527
+Seminar,378,12,Community Hall,Basic,None,Off-Season,372126
+Festival,553,9,Auditorium,Premium,Speakers,Peak,582491
+Exhibition,733,6,Banquet Hall,Premium,Band,Peak,663830
+Conference,894,10,Hotel,Luxury,Speakers,Peak,1038150
+Birthday,553,6,Banquet Hall,Basic,None,Off-Season,449818
+Exhibition,445,9,Auditorium,Luxury,DJ,Peak,593835
+Concert,464,9,Banquet Hall,Basic,DJ,Off-Season,509952
+Conference,227,12,Auditorium,Premium,None,Peak,384623
+Seminar,636,6,Community Hall,Luxury,None,Off-Season,671208
+Festival,829,6,Community Hall,Premium,None,Off-Season,725378
+Exhibition,827,11,Community Hall,Basic,Speakers,Peak,625677
+Birthday,939,12,Banquet Hall,Basic,DJ,Off-Season,629123
+Festival,928,9,Auditorium,Premium,DJ,Off-Season,840000
+Festival,265,10,Community Hall,Premium,None,Off-Season,330395
+Seminar,472,9,Auditorium,Premium,DJ,Peak,549128
+Birthday,56,5,Auditorium,Basic,DJ,Off-Season,256400
+Wedding,847,11,Hotel,Premium,Band,Off-Season,760604
+Festival,292,3,Hotel,Luxury,Speakers,Off-Season,586300
+Concert,392,12,Hotel,Basic,Speakers,Off-Season,445800
+Festival,860,3,Banquet Hall,Basic,DJ,Off-Season,799420
+Birthday,185,8,Auditorium,Luxury,DJ,Peak,495245
+Wedding,915,12,Banquet Hall,Premium,DJ,Off-Season,779850
+Conference,670,12,Auditorium,Premium,Speakers,Off-Season,729050
+Conference,533,10,Community Hall,Basic,DJ,Off-Season,472998
+Seminar,461,9,Open Ground,Premium,None,Off-Season,478586
+Birthday,513,3,Community Hall,Luxury,Speakers,Off-Season,594476
+Seminar,614,6,Hotel,Basic,DJ,Off-Season,522002
+Concert,105,9,Open Ground,Premium,None,Peak,292660
+Seminar,908,2,Banquet Hall,Luxury,Band,Peak,991072
+Birthday,742,5,Open Ground,Premium,Speakers,Off-Season,750176
+Seminar,286,4,Hotel,Luxury,DJ,Peak,560446
+Conference,965,6,Banquet Hall,Luxury,None,Peak,787060
+Birthday,359,9,Community Hall,Basic,None,Peak,349245
+Seminar,934,10,Community Hall,Luxury,None,Peak,701508
+Seminar,934,11,Auditorium,Luxury,Band,Peak,1029790
+Seminar,938,11,Hotel,Premium,Speakers,Off-Season,1008826
+Seminar,562,5,Hotel,Basic,DJ,Off-Season,556852
+Concert,175,7,Hotel,Basic,Speakers,Peak,370625
+Exhibition,403,8,Hotel,Premium,None,Peak,485455
+Festival,460,11,Banquet Hall,Premium,None,Off-Season,498880
+Seminar,410,4,Community Hall,Luxury,Band,Peak,646360
+Wedding,603,10,Community Hall,Luxury,DJ,Off-Season,657126
+Wedding,769,5,Open Ground,Luxury,Band,Off-Season,679892
+Wedding,890,9,Auditorium,Premium,Speakers,Peak,722330
+Wedding,275,12,Hotel,Premium,None,Peak,425850
+Birthday,229,5,Banquet Hall,Basic,Band,Peak,344119
+Birthday,686,11,Banquet Hall,Luxury,DJ,Off-Season,643792
+Festival,788,10,Hotel,Basic,Speakers,Peak,739648
+Birthday,764,3,Hotel,Luxury,None,Peak,911676
+Conference,199,2,Hotel,Basic,Band,Peak,382187
+Conference,662,8,Hotel,Premium,DJ,Peak,588110
+Wedding,763,2,Auditorium,Premium,Speakers,Peak,724066
+Wedding,657,3,Open Ground,Basic,Band,Peak,735233
+Festival,582,11,Open Ground,Basic,DJ,Peak,524862
+Birthday,282,11,Open Ground,Luxury,None,Peak,426618
+Wedding,564,6,Hotel,Premium,Band,Peak,628204
+Conference,614,8,Auditorium,Luxury,None,Off-Season,759448
+Festival,966,5,Banquet Hall,Basic,None,Off-Season,804662
+Festival,694,12,Hotel,Premium,None,Off-Season,677788
+Exhibition,636,6,Auditorium,Premium,Speakers,Peak,714388
+Wedding,302,2,Open Ground,Luxury,DJ,Off-Season,496602
+Concert,513,8,Community Hall,Basic,None,Peak,517821
+Seminar,827,11,Banquet Hall,Premium,DJ,Peak,759584
+Festival,805,6,Hotel,Premium,None,Off-Season,829940
+Exhibition,703,11,Hotel,Premium,Band,Off-Season,824596
+Festival,70,10,Open Ground,Luxury,Speakers,Off-Season,322200
+Wedding,941,5,Hotel,Luxury,None,Peak,768043
+Seminar,755,3,Hotel,Basic,Band,Peak,699395
+Conference,941,6,Auditorium,Basic,DJ,Peak,926579
+Birthday,536,9,Auditorium,Luxury,Band,Peak,608688
+Conference,935,6,Banquet Hall,Premium,None,Peak,847750
+Exhibition,940,7,Community Hall,Basic,Speakers,Off-Season,580860
+Birthday,303,10,Hotel,Basic,DJ,Off-Season,419377
+Exhibition,989,4,Community Hall,Basic,Band,Off-Season,960211
+Conference,471,3,Banquet Hall,Basic,Band,Off-Season,512491
+Wedding,395,6,Auditorium,Luxury,None,Peak,622030
+Birthday,385,4,Auditorium,Premium,Speakers,Off-Season,425945
+Conference,194,6,Auditorium,Basic,None,Off-Season,302520
+Conference,803,6,Community Hall,Premium,Band,Off-Season,711875
+Exhibition,509,5,Banquet Hall,Basic,Band,Off-Season,491297
+Conference,225,12,Banquet Hall,Premium,Speakers,Off-Season,326750
+Exhibition,884,10,Open Ground,Premium,Band,Off-Season,899464
+Exhibition,887,10,Banquet Hall,Basic,Speakers,Peak,727364
+Festival,506,11,Open Ground,Basic,DJ,Off-Season,497768
+Festival,930,8,Open Ground,Luxury,None,Off-Season,931230
+Wedding,442,3,Banquet Hall,Luxury,None,Peak,646638
+Wedding,210,11,Open Ground,Basic,Band,Peak,343820
+Festival,913,9,Community Hall,Basic,DJ,Peak,819100
+Seminar,550,8,Banquet Hall,Luxury,Speakers,Peak,729400
+Exhibition,602,8,Auditorium,Basic,Speakers,Off-Season,522438
+Seminar,974,6,Hotel,Basic,DJ,Peak,944268
+Concert,761,9,Community Hall,Premium,None,Peak,505054
+Concert,194,2,Hotel,Premium,Band,Peak,453684
+Concert,706,8,Banquet Hall,Luxury,DJ,Off-Season,792314
+Festival,376,9,Hotel,Basic,Band,Off-Season,564032
+Seminar,866,10,Community Hall,Premium,DJ,Peak,607102
+Wedding,393,4,Auditorium,Luxury,DJ,Off-Season,631606
+Seminar,516,2,Banquet Hall,Luxury,Speakers,Off-Season,604636
+Seminar,804,4,Auditorium,Basic,Band,Off-Season,720792
+Seminar,695,5,Auditorium,Basic,None,Peak,762100
+Wedding,464,5,Auditorium,Luxury,Band,Off-Season,619376
+Birthday,973,2,Banquet Hall,Premium,DJ,Off-Season,824773
+Exhibition,522,12,Community Hall,Premium,Band,Peak,646116
+Concert,108,5,Hotel,Luxury,DJ,Off-Season,420436
+Wedding,548,9,Community Hall,Luxury,DJ,Off-Season,655244
+Wedding,481,12,Community Hall,Premium,Band,Peak,618547
+Concert,326,5,Banquet Hall,Premium,DJ,Off-Season,436578
+Seminar,349,11,Banquet Hall,Basic,DJ,Peak,404151
+Festival,369,12,Auditorium,Basic,None,Peak,412618
+Exhibition,495,11,Banquet Hall,Luxury,DJ,Peak,722240
+Birthday,861,7,Hotel,Premium,None,Peak,778187
+Conference,910,2,Auditorium,Premium,DJ,Peak,794140
+Wedding,420,5,Open Ground,Luxury,Band,Off-Season,613160
+Exhibition,940,6,Community Hall,Luxury,DJ,Peak,926980
+Exhibition,879,8,Banquet Hall,Premium,DJ,Off-Season,730482
+Concert,912,4,Hotel,Luxury,Band,Off-Season,887952
+Wedding,937,12,Community Hall,Premium,Band,Peak,693508
+Festival,596,5,Open Ground,Luxury,Band,Peak,664688
+Wedding,196,3,Auditorium,Premium,None,Off-Season,356028
+Wedding,306,11,Banquet Hall,Basic,DJ,Peak,429512
+Concert,550,8,Open Ground,Premium,None,Peak,547800
+Concert,861,12,Community Hall,Basic,DJ,Peak,855885
+Birthday,820,4,Auditorium,Luxury,None,Peak,678660
+Concert,757,6,Hotel,Basic,DJ,Off-Season,618659
+Seminar,820,7,Community Hall,Premium,None,Off-Season,753680
+Festival,248,11,Hotel,Luxury,None,Peak,546328
+Concert,223,5,Banquet Hall,Premium,Speakers,Peak,420114
+Conference,111,7,Open Ground,Basic,Band,Peak,306590
+Conference,949,10,Auditorium,Premium,None,Peak,792389
+Seminar,440,12,Banquet Hall,Luxury,DJ,Peak,639520
+Exhibition,571,8,Open Ground,Basic,Band,Peak,508077
+Seminar,345,9,Hotel,Basic,Speakers,Peak,467340
+Seminar,179,6,Auditorium,Basic,None,Off-Season,311362
+Exhibition,717,4,Community Hall,Luxury,Band,Peak,795371
+Festival,813,2,Banquet Hall,Luxury,Band,Off-Season,824548
+Seminar,160,6,Community Hall,Premium,Speakers,Off-Season,257600
+Festival,718,12,Auditorium,Luxury,Speakers,Off-Season,703360
+Wedding,594,11,Banquet Hall,Luxury,Band,Off-Season,615616
+Exhibition,819,3,Community Hall,Basic,Speakers,Off-Season,591269
+Conference,245,12,Hotel,Luxury,DJ,Peak,557535
+Conference,237,5,Community Hall,Basic,Band,Off-Season,333530
+Wedding,196,12,Banquet Hall,Premium,DJ,Peak,389168
+Concert,862,2,Community Hall,Basic,DJ,Peak,859256
+Seminar,418,6,Community Hall,Premium,Speakers,Off-Season,352634
+Seminar,571,9,Auditorium,Luxury,Speakers,Peak,660346
+Concert,997,3,Auditorium,Premium,None,Peak,794392
+Wedding,143,11,Auditorium,Premium,None,Off-Season,310652
+Wedding,391,5,Auditorium,Premium,DJ,Off-Season,483261
+Conference,885,10,Auditorium,Premium,Band,Peak,929500
+Birthday,612,10,Hotel,Basic,None,Off-Season,693688
+Wedding,79,11,Banquet Hall,Basic,Speakers,Peak,265820
+Birthday,180,4,Auditorium,Premium,None,Peak,334340
+Concert,985,7,Banquet Hall,Basic,Band,Peak,1008450
+Concert,629,3,Open Ground,Premium,Speakers,Off-Season,705652
+Festival,276,7,Hotel,Basic,None,Off-Season,367108
+Exhibition,563,5,Hotel,Luxury,None,Peak,778738
+Seminar,143,6,Banquet Hall,Basic,Band,Off-Season,307373
+Wedding,661,4,Auditorium,Basic,Speakers,Off-Season,701123
+Birthday,620,3,Community Hall,Premium,Speakers,Peak,596880
+Seminar,90,6,Hotel,Luxury,None,Peak,407800
+Festival,90,5,Auditorium,Premium,Band,Off-Season,349390
+Concert,384,11,Community Hall,Premium,None,Peak,438448
+Conference,142,11,Community Hall,Basic,DJ,Off-Season,244004
+Exhibition,830,7,Open Ground,Luxury,Speakers,Off-Season,949850
+Seminar,769,9,Banquet Hall,Basic,DJ,Peak,603734
+Wedding,716,10,Auditorium,Luxury,Band,Off-Season,678620
+Concert,68,6,Community Hall,Luxury,Speakers,Peak,325972
+Exhibition,710,6,Auditorium,Luxury,None,Off-Season,806290
+Concert,647,4,Open Ground,Premium,DJ,Peak,668609
+Festival,892,2,Hotel,Premium,Band,Peak,916232
+Birthday,111,7,Auditorium,Basic,Speakers,Off-Season,273825
+Exhibition,242,9,Auditorium,Luxury,Speakers,Peak,506652
+Exhibition,934,10,Banquet Hall,Premium,Speakers,Peak,705518
+Exhibition,62,7,Open Ground,Luxury,Band,Peak,379140
+Festival,258,5,Hotel,Luxury,None,Peak,510352
+Wedding,809,6,Auditorium,Luxury,Speakers,Peak,827602
+Festival,859,5,Open Ground,Premium,Band,Peak,797426
+Exhibition,851,7,Hotel,Luxury,Speakers,Peak,884431
+Birthday,425,7,Banquet Hall,Basic,Speakers,Peak,470750
+Concert,267,4,Hotel,Premium,DJ,Off-Season,450200
+Exhibition,441,5,Auditorium,Basic,None,Off-Season,492967
+Wedding,178,2,Community Hall,Luxury,DJ,Off-Season,384276
+Seminar,346,11,Community Hall,Luxury,Speakers,Peak,461616
+Concert,562,11,Open Ground,Luxury,Band,Peak,654604
+Birthday,710,3,Auditorium,Premium,DJ,Off-Season,694520
+Concert,930,6,Community Hall,Luxury,DJ,Off-Season,880080
+Seminar,134,11,Community Hall,Basic,Band,Off-Season,254822
+Wedding,813,10,Auditorium,Luxury,None,Peak,903409
+Birthday,818,7,Open Ground,Premium,Speakers,Off-Season,754788
+Festival,368,8,Open Ground,Basic,Speakers,Peak,460912
+Birthday,212,3,Auditorium,Premium,Band,Off-Season,429036
+Conference,619,8,Banquet Hall,Luxury,Speakers,Off-Season,721016
+Birthday,726,2,Hotel,Luxury,DJ,Off-Season,950074
+Exhibition,472,12,Open Ground,Luxury,None,Peak,603024
+Conference,922,10,Hotel,Premium,Band,Off-Season,953556
+Birthday,332,3,Community Hall,Luxury,None,Off-Season,451484
+Seminar,321,7,Open Ground,Luxury,Band,Off-Season,573911
+Seminar,970,2,Hotel,Luxury,Speakers,Peak,1139810
+Exhibition,241,11,Hotel,Basic,DJ,Off-Season,412193
+Wedding,960,7,Community Hall,Luxury,DJ,Off-Season,853680
+Seminar,277,5,Banquet Hall,Premium,Speakers,Peak,429524
+Exhibition,500,6,Banquet Hall,Luxury,Speakers,Off-Season,555500
+Wedding,812,12,Banquet Hall,Luxury,DJ,Peak,876988
+Conference,198,9,Banquet Hall,Luxury,Speakers,Off-Season,426028
+Festival,129,8,Banquet Hall,Premium,Speakers,Off-Season,322106
+Conference,736,10,Open Ground,Basic,DJ,Off-Season,659872
+Conference,877,8,Open Ground,Premium,None,Peak,748831
+Birthday,518,11,Auditorium,Premium,Speakers,Off-Season,632284
+Birthday,773,6,Banquet Hall,Basic,Speakers,Off-Season,554856
+Conference,900,2,Auditorium,Basic,Band,Peak,924300
+Birthday,429,9,Hotel,Basic,Speakers,Peak,577593
+Birthday,728,6,Community Hall,Premium,Band,Off-Season,689752
+Birthday,598,5,Community Hall,Basic,DJ,Peak,592620
+Conference,269,9,Community Hall,Luxury,Speakers,Off-Season,436195
+Exhibition,824,2,Community Hall,Premium,Band,Off-Season,631064
+Wedding,53,4,Banquet Hall,Premium,None,Peak,280598
+Festival,321,11,Open Ground,Basic,Band,Peak,394673
+Wedding,380,2,Banquet Hall,Premium,DJ,Peak,536000
+Birthday,594,5,Auditorium,Premium,None,Off-Season,691538
+Wedding,829,12,Banquet Hall,Luxury,Band,Peak,763775
+Exhibition,141,10,Auditorium,Basic,DJ,Peak,342778
+Exhibition,265,8,Community Hall,Basic,DJ,Off-Season,286740
+Festival,141,11,Hotel,Premium,None,Off-Season,351227
+Birthday,245,5,Open Ground,Premium,DJ,Peak,382545
+Seminar,166,7,Banquet Hall,Premium,None,Off-Season,284036
+Festival,951,7,Auditorium,Basic,Speakers,Off-Season,954633
+Birthday,745,8,Hotel,Luxury,Band,Off-Season,720035
+Festival,206,6,Auditorium,Luxury,Speakers,Peak,463206
+Wedding,863,5,Open Ground,Premium,Speakers,Off-Season,754553
+Conference,139,12,Community Hall,Premium,None,Peak,261446
+Conference,329,12,Community Hall,Basic,None,Off-Season,382542
+Seminar,196,7,Community Hall,Premium,DJ,Off-Season,290548
+Birthday,507,8,Open Ground,Premium,Speakers,Peak,567522
+Conference,390,3,Open Ground,Premium,Speakers,Peak,417060
+Concert,661,3,Open Ground,Premium,DJ,Off-Season,561076
+Seminar,565,2,Hotel,Premium,Speakers,Peak,715105
+Seminar,313,5,Hotel,Basic,Speakers,Off-Season,365200
+Conference,969,4,Auditorium,Basic,None,Off-Season,712291
+Wedding,766,11,Open Ground,Premium,Band,Off-Season,852800
+Conference,469,10,Community Hall,Luxury,Speakers,Off-Season,624882
+Conference,923,9,Auditorium,Premium,Band,Off-Season,789496
+Concert,106,9,Hotel,Basic,DJ,Peak,332576
+Seminar,836,11,Community Hall,Premium,Speakers,Peak,602084
+Exhibition,113,11,Open Ground,Luxury,None,Peak,350398
+Festival,254,10,Open Ground,Luxury,None,Off-Season,464310
+Concert,461,8,Community Hall,Basic,Speakers,Peak,527736
+Birthday,922,8,Hotel,Luxury,Band,Off-Season,904476
+Exhibition,400,5,Hotel,Luxury,None,Peak,629600
+Birthday,508,4,Hotel,Luxury,Speakers,Off-Season,691216
+Birthday,112,6,Hotel,Luxury,Speakers,Off-Season,413200
+Wedding,851,7,Banquet Hall,Premium,Speakers,Off-Season,882717
+Exhibition,496,11,Auditorium,Luxury,None,Off-Season,525264
+Concert,565,4,Open Ground,Luxury,Speakers,Off-Season,521085
+Festival,581,3,Hotel,Premium,DJ,Off-Season,690890
+Exhibition,737,3,Hotel,Luxury,Band,Peak,916001
+Festival,635,3,Banquet Hall,Premium,Band,Peak,636075
+Concert,338,3,Community Hall,Premium,Speakers,Peak,434770
+Wedding,144,8,Auditorium,Premium,None,Peak,366848
+Festival,259,7,Community Hall,Basic,Band,Off-Season,287586
+Exhibition,239,4,Open Ground,Basic,Band,Off-Season,363715
+Birthday,256,9,Banquet Hall,Basic,None,Off-Season,357904
+Wedding,759,2,Community Hall,Premium,Band,Peak,706026
+Seminar,897,4,Open Ground,Basic,DJ,Off-Season,732552
+Wedding,453,10,Auditorium,Luxury,Band,Peak,593850
+Conference,452,6,Community Hall,Premium,Speakers,Off-Season,456624
+Seminar,914,10,Open Ground,Basic,Speakers,Off-Season,756788
+Conference,868,6,Auditorium,Premium,Speakers,Off-Season,643204
+Conference,679,7,Banquet Hall,Luxury,Speakers,Off-Season,779189
+Exhibition,658,7,Auditorium,Luxury,Speakers,Off-Season,672818
+Festival,208,10,Hotel,Luxury,Speakers,Peak,541008
+Conference,98,12,Banquet Hall,Luxury,Band,Peak,417726
+Festival,643,10,Community Hall,Premium,DJ,Off-Season,532719
+Wedding,341,10,Hotel,Luxury,Speakers,Off-Season,513791
+Concert,325,5,Auditorium,Premium,Band,Peak,442275
+Conference,303,5,Banquet Hall,Luxury,Band,Off-Season,541495
+Wedding,844,9,Banquet Hall,Basic,Speakers,Peak,667320
+Exhibition,202,4,Auditorium,Luxury,None,Off-Season,456248
+Wedding,978,2,Banquet Hall,Premium,None,Peak,861030
+Exhibition,403,12,Community Hall,Basic,DJ,Peak,465324
+Wedding,536,5,Community Hall,Premium,None,Peak,461752
+Conference,639,9,Community Hall,Luxury,DJ,Off-Season,630396
+Festival,52,10,Community Hall,Basic,DJ,Off-Season,174232
+Conference,827,5,Community Hall,Luxury,Speakers,Off-Season,642074
+Wedding,197,2,Auditorium,Premium,None,Peak,358500
+Birthday,839,8,Open Ground,Premium,Band,Off-Season,819749
+Exhibition,861,10,Hotel,Basic,Band,Peak,810573
+Festival,843,2,Banquet Hall,Basic,Band,Peak,763387
+Birthday,579,7,Open Ground,Basic,Band,Peak,606929
+Exhibition,301,8,Community Hall,Luxury,Band,Off-Season,435082
+Wedding,350,11,Community Hall,Basic,DJ,Off-Season,340400
+Concert,799,3,Banquet Hall,Luxury,Speakers,Peak,713932
+Concert,370,10,Community Hall,Basic,DJ,Off-Season,410110
+Festival,578,9,Banquet Hall,Luxury,None,Off-Season,522934
+Birthday,881,3,Community Hall,Luxury,DJ,Off-Season,874366
+Concert,398,12,Banquet Hall,Premium,None,Off-Season,399050
+Conference,395,2,Banquet Hall,Basic,Band,Off-Season,416710
+Wedding,792,9,Open Ground,Premium,Band,Peak,729360
+Wedding,691,5,Open Ground,Basic,Band,Peak,549242
+Wedding,547,2,Open Ground,Luxury,Band,Off-Season,715481
+Seminar,675,11,Open Ground,Basic,Speakers,Off-Season,597950
+Exhibition,356,6,Banquet Hall,Premium,Band,Off-Season,499588
+Festival,838,11,Auditorium,Basic,None,Off-Season,593916
+Birthday,934,7,Open Ground,Premium,DJ,Peak,974784
+Exhibition,494,8,Banquet Hall,Luxury,DJ,Off-Season,712730
+Seminar,248,9,Community Hall,Basic,Band,Off-Season,294496
+Festival,613,11,Community Hall,Premium,None,Off-Season,575614
+Seminar,347,9,Auditorium,Premium,Speakers,Peak,500692
+Birthday,582,4,Open Ground,Basic,Band,Peak,651368
+Exhibition,998,9,Community Hall,Luxury,Band,Off-Season,1061454
+Festival,107,2,Hotel,Luxury,Band,Off-Season,441039
+Festival,295,8,Hotel,Premium,Speakers,Peak,533315
+Exhibition,279,11,Hotel,Luxury,Band,Peak,619206
